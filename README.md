@@ -1,0 +1,1 @@
+# solved-mancala-game-using-greedy-minimax-and-alpha-beta-pruning-algorithm
